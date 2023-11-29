@@ -41,7 +41,7 @@
   </tr>
   <tr>
     <td> <div align=center> <b> Algorithm </b> </div> </td>
-    <td> <tt>image</tt>: 아이디어 브레인 스토밍, [조직도 생성](https://boardmix.com/) </td>
+    <td> <tt>image</tt>: 아이디어 브레인 스토밍, 조직도 생성 <a href="https://boardmix.com/"> </td>
   </tr>
 </table>
 
